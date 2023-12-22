@@ -22,9 +22,6 @@ Explore the project, set up the Django environment, and delve into examples! Fin
 
 Eager to contribute? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this comprehensive ERP solution.
 
-📜 **License**
-
-This project operates under [License Name/Type]. See [LICENSE](LICENSE) for specific details.
 
 🙌 **Acknowledgments**
 
