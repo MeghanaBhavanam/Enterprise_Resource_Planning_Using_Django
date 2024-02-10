@@ -29,5 +29,5 @@ Huge thanks to all contributors, libraries, and frameworks that have supported t
 
 📧 **Contact**
 
-Questions or ideas? Don't hesitate to reach out to devallabhaskarganesh@gmail.com.
+Questions or ideas? Don't hesitate to reach out to adithyanagendragummadi2004@gmail.com.
 
